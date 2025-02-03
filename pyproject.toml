@@ -1,6 +1,6 @@
 [project]
 name = "llm-siliconflow"
-version = "0.1.4"
+version = "0.1.0"
 description = "Access siliconflow.cn models via API"
 readme = "README.md"
 authors = [{name = "WanZheng"}]
